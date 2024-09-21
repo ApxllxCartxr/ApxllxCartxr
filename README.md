@@ -1,2 +1,2 @@
-# ApxllxCartxr
- Oh uh hi i'm new here don't mind me 
+# Joseph Fernando
+Sophomore at Chennai Institute of Technology | Currently pursuing my B.E. C.S.E
