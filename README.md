@@ -13,18 +13,23 @@
 <p align="center">
     ────────────────────────────────────────────────
 </p>
+<br>
+<p align="center">
+    what i've learnt so far?<br>
+</p>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.py"/>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-    <br>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</div>
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00f6ff" alt="Python"/>
+<img src="https://img.shields.io/badge/Discord.py-0d1117?style=for-the-badge&logo=discord&logoColor=9d7fff" alt="Discord.py"/>
+<img src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=00ffcc" alt="Flutter"/>
+<br>
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=ff6ec7" alt="Next.js"/>
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00f0ff" alt="React"/>
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=ffae00" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00ff7f" alt="CSS3"/>
 
+</div>
+<br>
 <div align="center">
     <pre>
     _    __ 
