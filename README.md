@@ -1,10 +1,10 @@
-```text
+
      gg     ,gggggggggggggg
     dP8,   dP""""""88""""""
    dP Yb   Yb,_    88      
-  ,8  `8,   `""    88      
+  ,8  8,   ""    88      
   I8   Yb       ggg88gggg  
-  `8b, `8,         88   8  
+  8b, 8,         88   8  
    `"Y88888        88      
        "Y8   gg,   88      
         ,88,  "Yb,,8P      
@@ -13,9 +13,9 @@
  ,8'      I8               
 ,8'       I8               
 I8,      ,8'               
-`Y8,___,d8'                
+Y8,___,d8                
   "Y888P"                  
-```
+
 # Joseph Fernando
 
 > 👋 Welcome — sophomore at Chennai Institute of Technology (B.E. C.S.E)
