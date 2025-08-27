@@ -1,15 +1,17 @@
-<h1 align="center">
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="4%">
-    Welcome to <a href="https://github.com/yourusername" target="_blank">Joey's</a> GitHub
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="4%">
-</h1>
+<h3 align="center">
+    ∘₊✧──── welcome to <a href="https://github.com/ApxllxCartxr" target="_blank">joey's</a> github! ────✧₊∘
+</h3>
+<br>
 
 <p align="center">
-    ⚡ Hey! I'm Joseph Fernando, but you can call me Joey.<br>
+    hey there, the name's joseph.<br>
+    i like to work across different domains, if i find something interesting, i'll do it. <br>
+    i believe that being a generalist is much better than specializing in something specific.<br>
+    <br>
 </p>
 
 <p align="center">
-    ▮ I work across different tech stacks - if it's interesting, I'll build it. ▮
+    ────────────────────────────────────────────────
 </p>
 
 <div align="center">
