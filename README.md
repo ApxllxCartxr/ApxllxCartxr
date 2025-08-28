@@ -1,5 +1,5 @@
 <h3 align="center">
-    ∘₊✧──── welcome to <a href="https://github.com/ApxllxCartxr" target="_blank">joey's</a> github! ────✧₊∘
+    ∘₊✧──── welcome to <a href="https://github.com/ApxllxCartxr" target="_blank">joseph's</a> github! ────✧₊∘
 </h3>
 <br>
 
