@@ -15,7 +15,8 @@ agreeing on one timeline.
 the tail latencies it exists to record, and how that overhead feeds back into
 gc assist storms. writing it up for a systems workshop.
 
-ddia · ostep · mit 6.5840 · leetcode toward 1900
+reading designing data-intensive applications · working through ostep
+and mit 6.5840 (distributed systems) · leetcode toward 1900
 
 **before**
 
@@ -27,4 +28,4 @@ go · python · distributed systems · databases · networking
 
 > you cannot measure a system without becoming part of it.
 
-[linkedin](https://www.linkedin.com/in/joseph-fernando05) · [email](mailto:)
+[linkedin](https://www.linkedin.com/in/joseph-fernando05) · [email](mailto:josephfernando05@proton.me)
