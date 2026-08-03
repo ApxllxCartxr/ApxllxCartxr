@@ -17,8 +17,10 @@ and mit 6.5840 · leetcode toward 1900
 
 **before**
 
-**accord crm** — swe intern at picabord technologies, full stack.
+**accord crm** — swe intern at picabord technologies, full stack 
+
 **[simhalink](#)** — flutter/firebase. finalist, simhastha kumbh mela hackathon.
+
 **e-cell, cit chennai** — president.
 
 go · python · distributed systems · databases · networking
